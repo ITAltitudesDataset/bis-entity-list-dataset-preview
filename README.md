@@ -1,4 +1,4 @@
-# BIS Entity List Dataset — 50-Row Buyer Preview
+# BIS Entity List Dataset — Free 50-Row Buyer Preview
 
 ### U.S. Export Control & Trade Compliance Reference Data | IT Altitudes Inc.
 
@@ -96,4 +96,98 @@ The complete dataset is intended for users who need broader reference coverage a
 
 The buyer kit provides structured entity information for research and analytical workflows, subject to the contents and license terms stated on the product page.
 
-**[View
+**[View the Complete BIS Entity List Dataset on Gumroad](https://italtitudes.gumroad.com/l/cuwozq)**
+
+---
+
+## 🔍 Data Preparation & Documentation
+
+IT Altitudes Inc. prepares structured reference datasets through activities such as:
+
+- Organizing publicly available regulatory reference information.
+- Standardizing selected fields for consistent analysis.
+- Reviewing available source references.
+- Preparing structured sample files.
+- Documenting intended uses and limitations.
+
+These are provider preparation activities and do not constitute independent government certification.
+
+## 🏛️ Official Source & Attribution
+
+**Primary source:** U.S. Department of Commerce — Bureau of Industry and Security (BIS).
+
+Official reference resources:
+
+- [Bureau of Industry and Security](https://www.bis.gov/)
+- [Electronic Code of Federal Regulations — Part 744, Supplement No. 4](https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-744/appendix-Supplement%20No.%204%20to%20Part%20744)
+
+IT Altitudes Inc. is an independent dataset provider and is not affiliated with, sponsored by, or endorsed by BIS or the U.S. Department of Commerce.
+
+## ⚠️ Important Limitations
+
+- This dataset is a **static reference snapshot**, not a live regulatory screening service.
+- Entity List records and export-control requirements may change.
+- Names, jurisdictions, and licensing requirements should be independently checked against current official sources.
+- Inclusion or absence of an entity in this dataset does not determine whether a transaction is legally permissible.
+- The dataset does not replace legal advice, regulatory due diligence, or official compliance procedures.
+
+**Do not rely on this dataset alone for operational export-control decisions or live restricted-party screening.**
+
+## ⚖️ License & Usage Terms
+
+The free preview is provided for evaluation, research, and informational purposes, subject to applicable source rights.
+
+Resale, redistribution, or sublicensing of IT Altitudes' original compilation and documentation is not authorized without applicable permission.
+
+Underlying public-source materials remain subject to their respective legal terms and rights.
+
+The complete buyer kit is supplied under the license and usage terms described on its Gumroad product page.
+
+---
+
+## 🛒 Get the Complete BIS Entity List Dataset
+
+Need more than the 50-row preview?
+
+Explore the complete buyer kit for broader structured regulatory reference information and supporting documentation.
+
+**[Purchase the Complete BIS Entity List Dataset — Gumroad](https://italtitudes.gumroad.com/l/cuwozq)**
+
+**Prepared by IT Altitudes Inc.**
+
+*Structured Data | Research-Ready Reference | Practical Documentation*
+
+---
+
+## License & Liability Documentation
+
+- [Preview License & Usage Terms](LICENSE.md)
+- [BIS Source Attribution & Liability Disclaimer](DISCLAIMER.md)
+
+This dataset is a static BIS Entity List reference snapshot prepared for research, evaluation, and non-production testing.
+
+It is not a live export-control screening service. Users must independently verify current regulatory requirements against official BIS sources.
+
+Underlying U.S. government information and IT Altitudes' original value-added materials remain subject to their respective applicable rights.
+
+---
+
+## Explore More Datasets from IT Altitudes Inc.
+
+- [OFAC Sanctions (SDN) Dataset](https://github.com/ITAltitudesDataset/ofac-sanctions-dataset-sample)
+- [US CRE Loan Maturity & Risk](https://github.com/ITAltitudesDataset/us-cre-loan-maturity-risk-dataset-preview)
+- [US Area Codes & Geographic Reference](https://github.com/ITAltitudesDataset/us-area-codes-dataset-preview)
+- [Global Tariff Realignment](https://github.com/ITAltitudesDataset/Global-Tariff-Realignment-Dataset-Preview)
+- [Geothermal Electricity Capacity](https://github.com/ITAltitudesDataset/geothermal-electricity-capacity-dataset)
+
+**[Explore Our Complete Dataset Catalog](https://github.com/ITAltitudesDataset)**
+
+---
+
+### About IT Altitudes Inc.
+
+IT Altitudes Inc. prepares structured, documented reference datasets for research, analytics, business intelligence, and development workflows.
+
+**Support:** support@italtitudesdataset.zohodesk.in
+
+*© 2026 IT Altitudes Inc. Original documentation and value-added materials subject to applicable rights.*
