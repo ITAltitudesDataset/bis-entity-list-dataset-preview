@@ -214,6 +214,18 @@ Explore the free 50-row BIS Entity List preview, including entity names, country
 
 For source information, limitations, and validation criteria, see our [Data Quality Report](DATA_QUALITY_REPORT.md).
 
+## Machine Learning Demonstration
+
+Explore our reproducible BIS Entity List name-matching demonstration using the free 50-row preview.
+
+The example uses TF-IDF character features and a Nearest Neighbors model to identify textually similar entity names.
+
+**[View BIS ML Demonstration](ml_demo/README_ML_DEMO.md)**
+
+![BIS Entity Name Similarity Chart](ml_demo/bis_entity_name_matching_chart.png)
+
+*Educational demonstration only. Similarity scores do not establish identity, sanctions status, or export-control requirements. Not a live compliance screening tool.*
+
 ### Why Consider the Complete Buyer Kit?
 
 The free 50-row preview allows users to evaluate the structure, available fields, and suitability of the sample data.
