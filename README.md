@@ -196,6 +196,24 @@ The following use cases demonstrate how organizations can work with structured B
 
 **Potential Buyer Value:** Provide organized reference material for educational research and practical analytical exercises.
 
+## Dataset Preview & Visual Insights
+
+### Sample Data Preview
+
+![BIS Entity List Preview](bis_preview_screenshot.png)
+
+### Country Distribution — 50-Row Sample
+
+![BIS Country Distribution](bis_country_chart.png)
+
+Explore the free 50-row BIS Entity List preview, including entity names, country labels, Federal Register citations, and license requirement references.
+
+**Note:** Visualizations represent the curated preview sample only, not the complete BIS Entity List.
+
+**[Get the Complete BIS Entity List Dataset](https://italtitudes.gumroad.com/l/cuwozq)**
+
+For source information, limitations, and validation criteria, see our [Data Quality Report](DATA_QUALITY_REPORT.md).
+
 ### Why Consider the Complete Buyer Kit?
 
 The free 50-row preview allows users to evaluate the structure, available fields, and suitability of the sample data.
